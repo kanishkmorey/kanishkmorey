@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @kanishkmorey
-- 👀 I’m interested in creating new programs  
-- 🌱 I’m currently learning Python and javascript
+# Hi there, Welcome!
+Hello, my name is Kanishk Morey, I am from Madhav Institute of Technology and Science, Gwalior, studying BTech IoT with honors in AI.
+
+I am interested in Data Scince, Linux as well as coding. Currently studying Data Science with python.
